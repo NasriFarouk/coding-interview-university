@@ -22,6 +22,7 @@
 - [Español](translations/README-es.md)
 - [German](translations/README-de.md)
 - [Japanese (日本語)](translations/README-ja.md)
+- [Marathi](translations/README-mr.md)
 - [Polish](translations/README-pl.md)
 - [Português Brasileiro](translations/README-ptbr.md)
 - [Russian](translations/README-ru.md)
@@ -305,6 +306,7 @@ You may not need it, but here are some sites for learning a new language:
 - [Codewars](http://www.codewars.com)
 - [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
+- [Programiz PRO Community Challenges)](https://programiz.pro/)
 
 ### For your Coding Interview
 
